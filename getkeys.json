@@ -1,0 +1,16 @@
+{
+	"StatusCode": 0,
+	"StatusMsg": "Success",
+	"LanguageCode": "EN",
+	"Language": "English",
+	"StringKeys": [{
+			"Value": "Select a location",
+			"Key": "mobile.sa.screen.title.location_list"
+		},
+		{
+			"Value": "Vehicle Not Scanned!",
+			"Key": "mobile.sa.popup.title.vehicle_not_scan"
+		}
+	]
+}
+
